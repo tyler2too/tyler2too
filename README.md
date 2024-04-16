@@ -22,6 +22,6 @@ This past summer I was a web accessibility intern where I used html, css, javasc
 
 Just recently I also participated in UICs Sparkathon which was a hackathon where I learned how to work with APIs and building a website in a short time frame. I coded the backend of a web application where you could upload a picture of leftover food and it would return back recipes based on that ingredient. I did this by using google cloud vision api which analyzed the photo and returned labels regarding the picture, and spoonacular api, which took those labels, and returned recipes based on the labels. 
 
-Fun fact: I can play Claire De Lune on piano
+Fun fact: My profile picture was taken during the hackathon :)
 
 
